@@ -36,7 +36,7 @@
 	<name>RuneLite Client</name>
 
 	<properties>
-		<guice.version>4.1.0</guice.version>
+		<guice.version>4.2.2</guice.version>
 		<jogl.version>2.3.2</jogl.version>
 
 		<jarsigner.skip>true</jarsigner.skip>
